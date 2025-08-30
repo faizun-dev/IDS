@@ -1,6 +1,6 @@
 # Real-Time Intrusion Detection System (IDS) in Python
 
-This project implements a **real-time Intrusion Detection System (IDS)** using **Python** and **Scapy** for analyzing network traffic **live** and detecting common attacks such as TCP scans, ICMP floods, and suspicious handshake patterns.
+This project implements a **real-time Intrusion Detection System (IDS)** using **Python** and **Scapy** for analyzing network traffic **live** and detecting common attacks such as different TCP scans and ICMP floods.
 
 ---
 
